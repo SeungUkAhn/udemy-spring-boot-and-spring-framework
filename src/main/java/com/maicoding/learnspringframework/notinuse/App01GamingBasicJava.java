@@ -1,4 +1,4 @@
-package com.maicoding.learnspringframework;
+package com.maicoding.learnspringframework.notinuse;
 
 import com.maicoding.learnspringframework.game.GameRunner;
 import com.maicoding.learnspringframework.game.PacmanGame;
