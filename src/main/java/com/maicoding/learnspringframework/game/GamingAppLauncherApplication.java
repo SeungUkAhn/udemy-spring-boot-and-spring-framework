@@ -1,7 +1,5 @@
-package com.maicoding.learnspringframework;
+package com.maicoding.learnspringframework.game;
 
-import com.maicoding.learnspringframework.game.GameRunner;
-import com.maicoding.learnspringframework.game.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import org.springframework.context.annotation.ComponentScan;
