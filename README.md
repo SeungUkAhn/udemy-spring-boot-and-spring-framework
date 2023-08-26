@@ -1,5 +1,5 @@
 # 개요
-Udemy 스프링부트 강의(https://www.udemy.com/course/spring-boot-and-spring-framework-korean)를 학습하며 기록한 노트와 코드입니다. 예제코드를 복사하지 않고 수업을 들으며 직접 타자치며 학습하거나 과제를 수행한 내용만 저장합니다.
+Udemy 스프링부트 강의를 학습하며 기록한 노트와 코드입니다. 예제코드를 복사하지 않고 수업을 들으며 직접 타자치며 학습하거나 과제를 수행한 내용만 저장합니다. (강의 link: https://www.udemy.com/course/spring-boot-and-spring-framework-korean)
 
 # 학습 목적
 기존에 스프링 프레임워크 및 부트를 활용하여 교육기관, 토이, 실무 프로젝트를 몇 차례 진행한 경험이 있으나 심화학습의 필요성을 느껴 이 강의를 선택하여 학습하게 되었습니다.
