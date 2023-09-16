@@ -9,4 +9,4 @@ Udemy 스프링부트 강의를 학습하며 기록한 노트와 코드입니다
 Spring Framework, Spring Boot, Spring MVC, Spring Security, Spring AOP, JPA, REST API, JUnit/Mockito, React, Docker, AWS
 
 # 진척도
-섹션 22 AWS Elastic Beanstalk 진행 중(90%). 섹션에 따라 레포지토리가 다수 생성되어 subtree로 관리 중으로, 단위 기간 학습이 끝날 때마다 업데이트 합니다.
+마지막 섹션(AWS 배포) 제외 전체 완료.
